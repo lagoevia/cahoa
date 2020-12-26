@@ -1,5 +1,9 @@
 # Appendix A - Just Read it
 
+| Appendix Home | First Page | Previous Page | Next Page | Last Page |
+|---------------|------------|---------------|-----------|-----------|
+| [Just Read It](HOME.md) | [Documentation](DOCS.md)   | [Documentation](DOCS.md)    | [Tackling problems](TACKLE.md)  | [Tackling problems](TACKLE.md)  |
+
 ## There are no stupid questions
 .. but there are lazy ones, which is worse. At any moment, we've all not understood something, and then gradually worked and practiced with it to gain more understanding. If you don't really feel like writing a good description of your problem, why should others offer a good description of a solution? Learning doesn't stop at all, so it's best if you adopt a good learning mentality early on!
 
@@ -30,6 +34,4 @@ It compiled fine, but it gave me error E under special condition C.
 3. Any improvements?
 
 ## Conclusion
-As any guide, it shouldn't be followed blindly for any circumstance. However, it should help you start improving the quality of your effort, and therefore your questions! You're not expected to ask questions like that from one day to the next, just keep it in mind and see how much better people respond when you put more effort.  
-
-[Continue reading](TACKLE.md)
+As any guide, it shouldn't be followed blindly for any circumstance. However, it should help you start improving the quality of your effort, and therefore your questions! You're not expected to ask questions like that from one day to the next, just keep it in mind and see how much better people respond when you put more effort.

@@ -1,5 +1,9 @@
 # Appendix A - Just Read it
 
+| Appendix Home | First Page | Previous Page | Next Page | Last Page |
+|---------------|------------|---------------|-----------|-----------|
+| [Just Read It](HOME.md) | [Documentation](DOCS.md)   | [Asking questions](ASK.md)    | No next page  | [Tackling problems](TACKLE.md)  |
+
 ## I want to solve this problem, but I'm stuck/demotivated
 Problem solving is complicated, and takes time to do right, regardless of your experience. With that in mind, here are some thoughts of how you should approach problem solving, that have helped me improve over time and be able to solve more problems confidently.
 

@@ -1,5 +1,9 @@
 # Appendix A - Just Read it
 
+| Appendix Home | First Page | Previous Page | Next Page | Last Page |
+|---------------|------------|---------------|-----------|-----------|
+| [Just Read It](HOME.md) | [Documentation](DOCS.md)   | No previous page    | [Asking questions](ASK.md)  | [Tackling problems](TACKLE.md)  |
+
 ## What is documentation?
 > Software documentation is written text or illustration that accompanies computer software or is embedded in the source code. The documentation either explains how the software operates or how to use it, and may mean different things to people in different roles. ([Wikipedia](https://en.wikipedia.org/wiki/Software_documentation))
 
@@ -18,5 +22,3 @@ If you wanted to use this library, you may have different questions: "How do I u
 - You will, more often than not, find more information at the project itself rather than from other people
 
 With that in mind, documentation is not always up to date, if there at all. For more advanced/complex topics, you may have to dig into source code to find some of your answers. Even then, it may not be enough, or you may be genuinely stuck after spending considerable effort trying to understand something. That's when asking others comes into play, so it is vital to know how to properly ask questions.
-
-[Continue reading](ASK.md)
